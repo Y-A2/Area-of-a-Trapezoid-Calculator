@@ -1,0 +1,62 @@
+.green {
+    border: green, solid, 5px;
+    }
+    
+    .img {
+    height: 50px;
+    width: 50px;
+    }
+    
+    #style{
+        font-size: 22px;
+    }
+    
+    body {
+    padding-top: 25px;
+      width: 600px;
+      margin: 20px auto;
+      background-color: aqua;
+      text-align: center;
+      padding-left: 100px;
+      padding-right: 100px;
+      height: 947px;
+    }
+    
+    html {
+        background-color: black;
+    }
+    
+    button {
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border-radius: 10px;
+        border:black, solid, 5px;
+        font-size: 24px;
+        font-variant: small-caps;
+    }
+    
+    .style {
+    font-size: 24px;
+    }
+    
+    input {
+    font-size: 24px;
+    }
+    
+    h2 {
+    font-size: 30px;
+    }
+    
+    h1 {
+    font-size: 42px;
+    }
+
+    label {
+    font-size: 24px;
+    }
+
+    select {
+        font-size: 16px;
+    }
