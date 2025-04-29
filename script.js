@@ -15,4 +15,5 @@ function button()
     document.getElementById("1").value = "";
     document.getElementById("2").value = "";
     document.getElementById("3").value = "";
+    document.getElementById("span").classList.add("span");
 }
