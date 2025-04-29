@@ -1,4 +1,4 @@
-    .green {
+.green {
     border: green, solid, 5px;
     }
     
@@ -59,4 +59,8 @@
 
     select {
         font-size: 16px;
+    }
+
+    .span {
+        border: 3px solid green;
     }
