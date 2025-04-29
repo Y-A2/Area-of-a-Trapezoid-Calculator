@@ -12,4 +12,7 @@ function button()
     document.getElementById("button").classList.add("green");
     document.getElementById("img").classList.add("img");
     document.getElementById("img").src = ("img/t.png");
+    document.getElementById("1").value = "";
+    document.getElementById("2").value = "";
+    document.getElementById("3").value = "";
 }
